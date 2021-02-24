@@ -17,7 +17,6 @@
     "url": "https://gitlab.com/ran-guin/d3-data-prep/issues"
   },
   "homepage": "https://gitlab.com/ran-guin/d3-data-prep#readme",
-
   "main": "./dist/index.js",
   "type": "module",
   "scripts": {
@@ -33,6 +32,7 @@
   "dependencies": {
     "@babel/cli": "^7.13.0",
     "@babel/core": "^7.13.1",
+    "d3": "^6.5.0",
     "read-excel-file": "^5.0.0"
   }
 }
